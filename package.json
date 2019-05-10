@@ -1,0 +1,23 @@
+{
+  "name": "vue-cli-plugin-axios-config",
+  "version": "0.0.5",
+  "description": "vue-cli 3 plugin to add axios-config",
+  "main": "index.js",
+  "author": "zhangyuhan2016",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/zhangyuhan2016/vue-cli-plugin-axios-config"
+  },
+  "keywords": [
+    "axios",
+    "axios-config",
+    "vue",
+    "vue-cli",
+    "plugin",
+    "cli"
+  ],
+  "bugs": {
+    "url": "https://github.com/zhangyuhan2016/vue-cli-plugin-axios-config/issues"
+  }
+}
